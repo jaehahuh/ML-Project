@@ -1,9 +1,7 @@
 # Machine-Learning-Project
 ## Heart Attack Analysis & Prediction
+###Author : Jaeha Huh
 
-Topic : Independent Machine learning Project
-Supervised learning: Predicting the price of a house price
-Author : Jaeha Huh
 Program language : Python (jupyter Notebook)
 
 1. Goal
@@ -18,6 +16,4 @@ The dataset has a total of 81 columns, including street, house size, building ty
 
 Models applied to supervised learning tested a total of three models: MLP Regressor, Ridge Regressor, and XGB Register. After testing normalized and unnormalized data, proceed with a model that can achieve better results.
 
-Jupyter Notebook libraries that I installed during the project :
 
-Scikit-learn, Pandas, Numpy, Matplotlib, XGBoost
