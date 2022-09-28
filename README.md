@@ -1,5 +1,5 @@
 # Machine-Learning-Project
-Heart Attack Analysis &amp; Prediction
+## Heart Attack Analysis & Prediction
 
 Topic : Independent Machine learning Project
 Supervised learning: Predicting the price of a house price
