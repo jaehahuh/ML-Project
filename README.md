@@ -1,6 +1,6 @@
 # Machine-Learning-Project
 ## Heart Attack Analysis & Prediction
-###Author : Jaeha Huh
+### Author : Jaeha Huh
 
 Program language : Python (jupyter Notebook)
 
