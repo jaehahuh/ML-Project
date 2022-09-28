@@ -4,9 +4,9 @@
 
 Program language : Python (jupyter Notebook)
 
-1. Goal
+**1. Goal**
 
-The goal of the project is to divide the dataset into a training set and a test set, and predict housing prices using a supervised machine learning models with given features (column).
+The goal of this project is to determine which of the three models is the most accurate by analyzing and predicting heart disease datasets.
 
 **2. Data**
 
