@@ -1,4 +1,4 @@
-# Machine-Learning-Project
+# Machine Learning Project
 ## Heart Attack Analysis & Prediction
 ### Author : Jaeha Huh
 
